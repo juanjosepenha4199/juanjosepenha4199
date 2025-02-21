@@ -10,7 +10,7 @@ I'm a **software developer** from **LOS ANDES UNIVERSITY** passionate about buil
 - **Other:** Git, Docker  
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjosepenha12&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
 
 ### 📫 Let's Connect  
