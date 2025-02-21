@@ -1,6 +1,6 @@
-# Hi there! 👋  
+# Hi I am Juan José Penha! 👋  
 
-I'm a **software developer** passionate about building efficient and scalable applications. I work with **Java (Spring Boot, JPA, Hibernate)** and **Angular**, focusing on backend development, APIs, and automation.  
+I'm a **software developer** from **LOS ANDES UNIVERSITY** passionate about building efficient and scalable applications. I work with **Java (Spring Boot, JPA, Hibernate)** and **Angular**, focusing on backend development, APIs, and automation.  
 
 ### 🔧 Technologies & Tools  
 - **Backend:** Java, Spring Boot, JPA, Hibernate  
