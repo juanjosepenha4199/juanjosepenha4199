@@ -53,10 +53,4 @@ I'm a **software developer** from **Los Andes University**, passionate about bui
 
 ---
 
-## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge)](YOUR_PORTFOLIO_LINK)  
-
----
-
 🎯 **Always learning, coding, and building innovative solutions!** 🚀
