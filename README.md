@@ -3,11 +3,10 @@
 I'm a **software developer** from **LOS ANDES UNIVERSITY** passionate about building efficient and scalable applications. I work with **Java (Spring Boot, JPA, Hibernate)** and **Angular**, focusing on backend development, APIs, and automation.  
 
 ### 🔧 Technologies & Tools  
-- **Backend:** Java, Spring Boot, JPA, Hibernate  
+- **Backend:** Java, Spring Boot, JPA, HTML, python
 - **Frontend:** Angular, Thymeleaf  
 - **Databases:** PostgreSQL, MySQL  
-- **Testing:** JUnit, Mockito  
-- **Other:** Git, Docker  
+- **Testing:** JUnit
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjosepenha4199&show_icons=true&theme=tokyonight)  
