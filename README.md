@@ -50,6 +50,8 @@ I'm a **software developer** from **Los Andes University**, passionate about bui
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjosepenha4199&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosepenha4199&layout=compact&theme=tokyonight" />
   <img src="https://github-profile-trophy.vercel.app/?username=juanjosepenha4199&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanjosepenha4199&theme=tokyonight" />
+
 
 </div>
 
