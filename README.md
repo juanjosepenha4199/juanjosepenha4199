@@ -10,8 +10,8 @@ I'm a **software developer** from **LOS ANDES UNIVERSITY** passionate about buil
 - **Other:** Git, Docker  
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjosepenha12&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanjosepenha4199&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjosepenha4199&layout=compact&theme=tokyonight)  
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
